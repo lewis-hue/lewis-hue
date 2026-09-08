@@ -51,7 +51,35 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 `LangGraph` · `RAG` · `Multi-agent orchestration` · `PostgreSQL` · `Redis` · `Milvus` ·
 `Docker` · `GitHub Actions` · `Terraform` · `AWS` · `GCP` · `Keycloak` · `Playwright`
 
-## Certifications (selected)
+## Certifications
 
-IBM Generative AI Engineering with LLMs · AWS Cloud Solutions Architect · IBM Data
-Engineering · Google Generative AI Leader · micro1 Senior AI Engineer
+**Generative AI & LLMs**
+- IBM Generative AI Engineering with LLMs (Specialization) - RAG & LangChain, AI agents, fine-tuning, transformers, NLP
+- Google Generative AI Leader
+- DeepLearning.AI - Generative AI for Software Development; Team Software Engineering with AI
+- IBM - Developing AI Applications with Python and Flask
+
+**Machine Learning**
+- IBM Machine Learning with Python
+- IBM Exploratory Data Analysis for Machine Learning
+- Microsoft Machine Learning Models in Azure
+
+**Cloud & DevOps**
+- AWS Cloud Solutions Architect
+- AWS - Architecting Solutions on AWS; Building Data Lakes on AWS; Cloud Technical Essentials
+- IBM - Introduction to Cloud Computing; Introduction to DevOps; Agile Development and Scrum
+
+**Data Engineering & Analytics**
+- IBM Data Engineering (Specialization) - ETL with Airflow & Kafka, Spark & Hadoop, NoSQL, data warehousing, SQL/RDBMS
+- Google Business Intelligence (Specialization)
+- Google - Modernizing Data Lakes and Data Warehouses with GCP; BigQuery for Data Analysts
+- Microsoft - Data Analysis and Visualization with Power BI
+- Edureka - Fundamentals of Data Governance
+
+**Programming & Foundations**
+- IBM - Python for Data Science, AI & Development; SQL and Relational Databases; Scala; HTML, CSS & JavaScript
+- Google - Data Analysis with R Programming
+
+**Professional**
+- micro1 Senior AI Engineer Certification
+- The Linux Foundation - Open Source Software Development Methods
