@@ -32,7 +32,8 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 | [Agentic-Viral-Video-Orchestrator](https://github.com/lewis-hue/Agentic-Viral-Video-Orchestrator) | Multi-agent system that discovers viral trends, generates short-form videos, and distributes them across social platforms. |
 | [Agentic-Plan-Workbench](https://github.com/lewis-hue/Agentic-Plan-Workbench) | LLM-powered red teaming for function-calling plans, generating optimized golden plans for reliable tool use. |
 | [Qubiten-AI-Assistant](https://github.com/lewis-hue/Qubiten-AI-Assistant) | Serverless RAG assistant for secure, citation-backed document analysis and compliance guidance. |
-| [REVIEWS-HQ](https://github.com/lewis-hue/REVIEWS-HQ) | AI analytics platform for property management with real-time sentiment analysis, response suggestions, and translation. |
+| [Flex-Living](https://github.com/lewis-hue/Flex-Living) | AI-powered property-management analytics platform: LLM sentiment analysis, trend forecasting, and real-time dashboards. FastAPI + React, deployed on GCP Cloud Run with Cloud Build CI/CD. |
+| [PAXFORM](https://github.com/lewis-hue/PAXFORM) | Full-stack appointment booking system: NestJS + React/Vite, PostgreSQL, Google Calendar sync, WebSocket notifications, Dockerized on GCP. |
 
 **Flagship private work:** [Katiba AI](https://github.com/lewis-hue/katibaai) is a production RAG SaaS that makes the Constitution of Kenya searchable and conversational. It runs as a multi-service system (FastAPI and Celery, Milvus vector search, MongoDB, Redis, Keycloak identity, a full Lago billing stack with Stripe and M-Pesa, and GCP Cloud Build CI/CD) with a well-tested backend. Available to walk through on request.
 
@@ -47,7 +48,7 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 
 ## Tech I work with
 
-`Python` · `FastAPI` · `TypeScript` · `Next.js` · `React` · `Fastify` · `LangChain` ·
+`Python` · `FastAPI` · `TypeScript` · `Next.js` · `React` · `NestJS` · `Fastify` · `LangChain` ·
 `LangGraph` · `RAG` · `Multi-agent orchestration` · `PostgreSQL` · `Redis` · `Milvus` ·
 `Docker` · `GitHub Actions` · `Terraform` · `AWS` · `GCP` · `Keycloak` · `Playwright`
 
