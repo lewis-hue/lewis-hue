@@ -28,10 +28,8 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 
 | Project | What it is |
 |---|---|
-| [storeproof](https://github.com/lewis-hue/storeproof) | Production-grade agentic catalog-audit system for independent musicians: a durable, checkpointed pipeline with verification-first store-presence checks, attended real-browser automation, Keycloak OIDC, AWS KMS encryption, CI/CD, and a 751-test suite. |
-| [Agentic-Viral-Video-Orchestrator](https://github.com/lewis-hue/Agentic-Viral-Video-Orchestrator) | Multi-agent system that discovers viral trends, generates short-form videos, and distributes them across social platforms. |
-| [Agentic-Plan-Workbench](https://github.com/lewis-hue/Agentic-Plan-Workbench) | LLM-powered red teaming for function-calling plans, generating optimized golden plans for reliable tool use. |
-| [Qubiten-AI-Assistant](https://github.com/lewis-hue/Qubiten-AI-Assistant) | Serverless RAG assistant for secure, citation-backed document analysis and compliance guidance. |
+| [storeproof](https://github.com/lewis-hue/storeproof) | Tells an independent artist which of their songs are missing from which stores, with evidence, and auto-drafts a re-distribution request to support. Built for the micro1 Frontier Engineering Challenge 2026: per-song, per-store checks classified as live, missing, or unverified, a pluggable search backend so the core is testable offline, CI, and one-command Docker startup. |
+| [Agentic-Viral-Video-Orchestrator](https://github.com/lewis-hue/Agentic-Viral-Video-Orchestrator) | Multi-agent system that discovers viral trends, generates short-form videos, and distributes them across social platforms. FastAPI backend, React/Vite frontend, Docker and Kubernetes deployment. |
 | [Flex-Living](https://github.com/lewis-hue/Flex-Living) | AI-powered property-management analytics platform: LLM sentiment analysis, trend forecasting, and real-time dashboards. FastAPI + React, deployed on GCP Cloud Run with Cloud Build CI/CD. |
 | [PAXFORM](https://github.com/lewis-hue/PAXFORM) | Full-stack appointment booking system: NestJS + React/Vite, PostgreSQL, Google Calendar sync, WebSocket notifications, Dockerized on GCP. |
 
@@ -52,35 +50,9 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 `LangGraph` · `RAG` · `Multi-agent orchestration` · `PostgreSQL` · `Redis` · `Milvus` ·
 `Docker` · `GitHub Actions` · `Terraform` · `AWS` · `GCP` · `Keycloak` · `Playwright`
 
-## Certifications
+## Certifications (selected)
 
-**Generative AI & LLMs**
-- IBM Generative AI Engineering with LLMs (Specialization) - RAG & LangChain, AI agents, fine-tuning, transformers, NLP
-- Google Generative AI Leader
-- DeepLearning.AI - Generative AI for Software Development; Team Software Engineering with AI
-- IBM - Developing AI Applications with Python and Flask
-
-**Machine Learning**
-- IBM Machine Learning with Python
-- IBM Exploratory Data Analysis for Machine Learning
-- Microsoft Machine Learning Models in Azure
-
-**Cloud & DevOps**
+- IBM Generative AI Engineering with LLMs (Specialization)
 - AWS Cloud Solutions Architect
-- AWS - Architecting Solutions on AWS; Building Data Lakes on AWS; Cloud Technical Essentials
-- IBM - Introduction to Cloud Computing; Introduction to DevOps; Agile Development and Scrum
-
-**Data Engineering & Analytics**
-- IBM Data Engineering (Specialization) - ETL with Airflow & Kafka, Spark & Hadoop, NoSQL, data warehousing, SQL/RDBMS
-- Google Business Intelligence (Specialization)
-- Google - Modernizing Data Lakes and Data Warehouses with GCP; BigQuery for Data Analysts
-- Microsoft - Data Analysis and Visualization with Power BI
-- Edureka - Fundamentals of Data Governance
-
-**Programming & Foundations**
-- IBM - Python for Data Science, AI & Development; SQL and Relational Databases; Scala; HTML, CSS & JavaScript
-- Google - Data Analysis with R Programming
-
-**Professional**
+- IBM Data Engineering (Specialization)
 - micro1 Senior AI Engineer Certification
-- The Linux Foundation - Open Source Software Development Methods
