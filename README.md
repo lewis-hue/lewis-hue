@@ -33,7 +33,10 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 | [Flex-Living](https://github.com/lewis-hue/Flex-Living) | AI-powered property-management analytics platform: LLM sentiment analysis, trend forecasting, and real-time dashboards. FastAPI + React, deployed on GCP Cloud Run with Cloud Build CI/CD. |
 | [PAXFORM](https://github.com/lewis-hue/PAXFORM) | Full-stack appointment booking system: NestJS + React/Vite, PostgreSQL, Google Calendar sync, WebSocket notifications, Dockerized on GCP. |
 
-**Flagship private work:** [Katiba AI](https://github.com/lewis-hue/katibaai) is a production RAG SaaS that makes the Constitution of Kenya searchable and conversational. It runs as a multi-service system (FastAPI and Celery, Milvus vector search, MongoDB, Redis, Keycloak identity, a full Lago billing stack with Stripe and M-Pesa, and GCP Cloud Build CI/CD) with a well-tested backend. Available to walk through on request.
+**Private and commercial work** (fuller product/client versions, source private):
+
+- **Catalog Sentinel** - the production version behind [storeproof](https://github.com/lewis-hue/storeproof): an agentic DistroKid catalog auditor with attended real-browser extraction (Steel over Playwright/CDP), a durable checkpointed pipeline that resumes after a crash, per-store DSP verification, Keycloak OIDC, AWS KMS envelope encryption, GitHub Actions CI/CD, and a 751-test suite.
+- **[Katiba AI](https://github.com/lewis-hue/katibaai)** - a production RAG SaaS for the Constitution of Kenya (FastAPI + Celery, Milvus, MongoDB, Redis, Keycloak, a full Lago billing stack with Stripe and M-Pesa, GCP Cloud Build). See the [architecture overview](https://github.com/lewis-hue/katibaai/blob/main/ARCHITECTURE.md); walkthrough on request.
 
 ## More projects
 
