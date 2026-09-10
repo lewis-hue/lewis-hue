@@ -26,23 +26,51 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 
 ## Featured work
 
-| Project | What it is |
-|---|---|
-| [storeproof](https://github.com/lewis-hue/storeproof) | Tells an independent artist which of their songs are missing from which stores, with evidence, and auto-drafts a re-distribution request to support. Built for the micro1 Frontier Engineering Challenge 2026: per-song, per-store checks classified as live, missing, or unverified, a pluggable search backend so the core is testable offline, CI, and one-command Docker startup. |
-| [Agentic-Viral-Video-Orchestrator](https://github.com/lewis-hue/Agentic-Viral-Video-Orchestrator) | Multi-agent system that discovers viral trends, generates short-form videos, and distributes them across social platforms. FastAPI backend, React/Vite frontend, Docker and Kubernetes deployment. |
-| [Flex-Living](https://github.com/lewis-hue/Flex-Living) | AI-powered property-management analytics platform: LLM sentiment analysis, trend forecasting, and real-time dashboards. FastAPI + React, deployed on GCP Cloud Run with Cloud Build CI/CD. |
-| [PAXFORM](https://github.com/lewis-hue/PAXFORM) | Full-stack appointment booking system: NestJS + React/Vite, PostgreSQL, Google Calendar sync, WebSocket notifications, Dockerized on GCP. |
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-storeproof.png?raw=true"> **[storeproof](https://github.com/lewis-hue/storeproof)**
 
-**Private and commercial work** (fuller product/client versions, source private):
+Tells an independent artist which of their songs are missing from which stores, with evidence, and auto-drafts a re-distribution request to support. Built for the micro1 Frontier Engineering Challenge 2026: per-song, per-store checks classified as live, missing, or unverified, a pluggable search backend so the core is testable offline, CI, and one-command Docker startup.
 
-- **Catalog Sentinel** - the production version behind [storeproof](https://github.com/lewis-hue/storeproof): an agentic DistroKid catalog auditor with attended real-browser extraction (Steel over Playwright/CDP), a durable checkpointed pipeline that resumes after a crash, per-store DSP verification, Keycloak OIDC, AWS KMS envelope encryption, GitHub Actions CI/CD, and a 751-test suite.
-- **[Katiba AI](https://github.com/lewis-hue/katibaai)** - a production RAG SaaS for the Constitution of Kenya (FastAPI + Celery, Milvus, MongoDB, Redis, Keycloak, a full Lago billing stack with Stripe and M-Pesa, GCP Cloud Build). See the [architecture overview](https://github.com/lewis-hue/katibaai/blob/main/ARCHITECTURE.md); walkthrough on request.
+<br clear="left"/>
 
-## More projects
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-avvo.png?raw=true"> **[Agentic-Viral-Video-Orchestrator](https://github.com/lewis-hue/Agentic-Viral-Video-Orchestrator)**
 
-| Project | What it is |
-|---|---|
-| [outreach-automation](https://github.com/lewis-hue/outreach-automation) | A LangGraph outreach pipeline (scrape, validate, LLM message generation) with LangSmith tracing and Pydantic-validated stages. A work in progress, and labeled as such. |
+Multi-agent system that discovers viral trends, generates short-form videos, and distributes them across social platforms. FastAPI backend, React/Vite frontend, Docker and Kubernetes deployment.
+
+<br clear="left"/>
+
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-flexliving.png?raw=true"> **[Flex-Living](https://github.com/lewis-hue/Flex-Living)**
+
+AI-powered property-management analytics: LLM sentiment analysis, trend forecasting, and real-time dashboards. FastAPI + React, deployed on GCP Cloud Run with Cloud Build CI/CD.
+
+<br clear="left"/>
+
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-paxform.png?raw=true"> **[PAXFORM](https://github.com/lewis-hue/PAXFORM)**
+
+Full-stack appointment booking system: NestJS + React/Vite, PostgreSQL, Google Calendar sync, WebSocket notifications, Dockerized on GCP.
+
+<br clear="left"/>
+
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-outreach.png?raw=true"> **[outreach-automation](https://github.com/lewis-hue/outreach-automation)**
+
+A LangGraph outreach pipeline (scrape, validate, LLM message generation) with LangSmith tracing and Pydantic-validated stages. A work in progress, and labeled as such.
+
+<br clear="left"/>
+
+## Private and commercial work
+
+Fuller product and client versions; source private.
+
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-catalog-sentinel.png?raw=true"> **Catalog Sentinel**
+
+The production version behind [storeproof](https://github.com/lewis-hue/storeproof): an agentic DistroKid catalog auditor with attended real-browser extraction (Steel over Playwright/CDP), a durable checkpointed pipeline that resumes after a crash, per-store DSP verification, Keycloak OIDC, AWS KMS envelope encryption, GitHub Actions CI/CD, and a 751-test suite.
+
+<br clear="left"/>
+
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis-hue/blob/main/thumb-katiba.png?raw=true"> **[Katiba AI](https://github.com/lewis-hue/katibaai)**
+
+A production RAG SaaS for the Constitution of Kenya (FastAPI + Celery, Milvus, MongoDB, Redis, Keycloak, a full Lago billing stack with Stripe and M-Pesa, GCP Cloud Build). See the [architecture overview](https://github.com/lewis-hue/katibaai/blob/main/ARCHITECTURE.md); walkthrough on request.
+
+<br clear="left"/>
 
 ## Tech I work with
 
