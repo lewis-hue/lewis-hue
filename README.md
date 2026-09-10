@@ -39,10 +39,7 @@ knowledge assistants) with LLMs, retrieval, and multi-agent orchestration.
 
 | Project | What it is |
 |---|---|
-| [DataScrapex](https://github.com/lewis-hue/DataScrapex) | AI job-data scraper and outreach dashboard (FastAPI backend + React and TypeScript frontend). |
-| [AI-Job-Outreach-Automation](https://github.com/lewis-hue/AI-Job-Outreach-Automation) | Autonomous assistant that scrapes job boards, validates roles, and generates personalized AI outreach. |
-| [outreach-automation](https://github.com/lewis-hue/outreach-automation) | LangGraph outreach pipeline with LangSmith tracing and Pydantic-validated stages. |
-| [AI-Powered-Web-Scraper-Data-Extraction-Platform](https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform) | Scalable web scraping and data-export platform (Flask, MongoDB, Docker). |
+| [outreach-automation](https://github.com/lewis-hue/outreach-automation) | A LangGraph outreach pipeline (scrape, validate, LLM message generation) with LangSmith tracing and Pydantic-validated stages. A work in progress, and labeled as such. |
 
 ## Tech I work with
 
